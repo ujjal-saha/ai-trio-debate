@@ -5,6 +5,8 @@
 ### ⟪ Claude ⟫ ═ ⟪ Gemini ⟫ ═ ⟪ ChatGPT ⟫
 **One prompt. Three minds. One screen.**
 
+👤 **Created by Ujjal Saha**
+
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.3.1-success?style=for-the-badge)
 ![Chrome](https://img.shields.io/badge/Chrome-111%2B-yellow?style=for-the-badge&logo=googlechrome&logoColor=white)
@@ -304,7 +306,9 @@ Info: replies on page: 2 (before: 2), last reply: 83 chars, stop button: yes, wi
 
 <div align="center">
 
-**Made for personal use · Windows · Chrome / Edge**
+**Created with ❤️ by Ujjal Saha**
+
+Made for personal use · Windows · Chrome / Edge
 
 ⭐ If this helps you, give the repo a star!
 
